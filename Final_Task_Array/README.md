@@ -16,3 +16,6 @@
 3. **FillArray** - forms an array in a way that fits our task.
 
 #### *Have a nice day!* 
+
+P.S. Jpg diagramm from draw.io added to the project.
+**P.S.s. After making a diagramm, Added a different *BETTER* option on how to make this project with a new diagramm.**
