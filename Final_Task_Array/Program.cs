@@ -11,12 +11,11 @@
 
 void PrintArray(string[] array)
 {
-    System.Console.Write("[");
-    for(int i = 0; i < array.Length -1; i++)
-    
-    Console.Write($"{array[i]}, ");
-    Console.Write($"{array[array.Length -1]}]");
-    System.Console.WriteLine();
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
 }
 
 int ArrayCount(string[] array)
