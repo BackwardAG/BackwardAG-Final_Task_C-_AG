@@ -9,9 +9,10 @@
 
 ["Россия", "Дания", "Казань"] -> []
 ```
-In this program 3 functions are boing used:
+### In this program 3 functions are boing used:
 
 1. **PrintArray** - let us see the result on our terminal screen
 2. **ArrayCount** - checks/counts if the string is of 3 elements or else. 
+3. **FillArray** - forms an array in a way that fits our task.
 
-
+#### *Have a nice day!* 
