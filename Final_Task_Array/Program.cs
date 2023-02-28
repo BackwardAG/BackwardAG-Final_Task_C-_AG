@@ -43,7 +43,7 @@ string[] FillArray(string[] array, int count)
     return result;
 }
 
-
 string[] array = {"hello", "2", "world", ":-)", "1234", "1567", 
 "-2", "computer science", "Russia", "Denmark", "Kazan"};
-PrintArray(array);
+int count = ArrayCount(array);
+PrintArray(FillArray(array, count));
