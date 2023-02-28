@@ -1,0 +1,15 @@
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/bin/Debug/net6.0/Final_Task_Different
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/bin/Debug/net6.0/Final_Task_Different.deps.json
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/bin/Debug/net6.0/Final_Task_Different.runtimeconfig.json
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/bin/Debug/net6.0/Final_Task_Different.dll
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/bin/Debug/net6.0/Final_Task_Different.pdb
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.csproj.AssemblyReference.cache
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.AssemblyInfoInputs.cache
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.AssemblyInfo.cs
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.csproj.CoreCompileInputs.cache
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.dll
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/refint/Final_Task_Different.dll
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.pdb
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/Final_Task_Different.genruntimeconfig.cache
+/Users/admin/Final_Task_C#_AG/Final_Task_Different/obj/Debug/net6.0/ref/Final_Task_Different.dll
